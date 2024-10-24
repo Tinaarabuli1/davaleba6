@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Nanum+Gothic+Coding&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Archivo+Black&family=Nanum+Gothic+Coding&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Archivo+Black&family=Nanum+Gothic+Coding&family=Prata&display=swap');
+
+
+.main-header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px 30px;
+background-color: gray;
+color: pink;
+
+}
+
+.main-header ul {
+    display: flex;
+}
+
+li {
+    
+    margin-left:20px;
+
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+h1 {
+font-size: 30px;
+font-weight: 800;
+font-family: "Prata", serif;
+}
